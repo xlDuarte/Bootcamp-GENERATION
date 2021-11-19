@@ -66,5 +66,6 @@ Aulas e atividades do Bloco I do Bootcamp de Java da Generation Brasil. 🔶
 - 29.10 - Aula de Loop Para - For.por
 - 29.10 - Exercicio 01 - Pesquisa salario e habitantes prefeitura.por
 - 29.10 - Exercicio 02 - Soma numeros impares ate 500.por
+------------------------
 
 <b>É isso! Obrigado!<b/> ✨
